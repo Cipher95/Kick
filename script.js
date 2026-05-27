@@ -36,7 +36,7 @@
                     title: 'Live Stream (Unknown)',
                     image: 'what-is-kick-1024x576.jpg',
                     description: `
-                        <p>Coming Soon</p>
+                        <p>Coming Soon.</p>
                     `
                 }
             ]
