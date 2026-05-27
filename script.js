@@ -6,13 +6,7 @@
             title: "Welcome to Kick!",
             image: "what-is-kick-1024x576.jpg",
             content: `
-                <p>
-Kick is a fast-growing live streaming platform built for gamers,
- creators, and online communities. Watch live streams, interact with
- your favorite creators through real-time chat, and explore gaming,
- entertainment, music, and IRL content. Join the community and
- experience live streaming with a fresh and creator-friendly platform.
-</p>
+                <p>Kick is a fast-growing live streaming platform built for gamers, creators, and online communities. Watch live streams, interact with your favorite creators through real-time chat, and explore gaming, entertainment, music, and IRL content. Join the community and experience live streaming with a fresh and creator-friendly platform.</p>
                 
             `
         },
@@ -36,6 +30,13 @@ Kick is a fast-growing live streaming platform built for gamers,
      			allowfullscreen="true"> 
 			</iframe>
 			<iframe src="https://chat.kick.cx/embed/sxb" width="100%" height="600px"></iframe>
+                    `
+                },{
+                    id: 'Live_Stream_2',
+                    title: 'Live Stream (Unknown)',
+                    image: 'what-is-kick-1024x576.jpg',
+                    description: `
+                        <p>Coming Soon</p>
                     `
                 }
             ]
