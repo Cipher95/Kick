@@ -23,13 +23,13 @@
                     description: `
                         <iframe 
      			src="https://player.kick.com/sxb?autoplay=true" 
-     			height="720" 
+     			height="378" 
      			width="100%"
      			frameborder="0" 
      			scrolling="no" 
      			allowfullscreen="true"> 
 			</iframe>
-			<iframe src="https://chat.kick.cx/embed/sxb" width="100%" height="600px"></iframe>
+			<iframe src="https://chat.kick.cx/embed/sxb" width="100%" height="500px"></iframe>
                     `
                 },{
                     id: 'Live_Stream_2',
