@@ -28,15 +28,23 @@
      			frameborder="0" 
      			scrolling="no" 
      			allowfullscreen="true"> 
-			</iframe>
-			<iframe src="https://chat.kick.cx/embed/sxb" width="100%" height="500px"></iframe>
+						</iframe>
+						<iframe src="https://chat.kick.cx/embed/sxb" width="100%" height="500px"></iframe>
                     `
                 },{
                     id: 'Live_Stream_2',
-                    title: 'Live Stream (Unknown)',
+                    title: 'Live Stream (ogabdullah)',
                     image: 'what-is-kick-1024x576.jpg',
                     description: `
-                        <p>Coming Soon.</p>
+                        <iframe 
+     			src="https://player.kick.com/ogabdullah?autoplay=true" 
+     			height="378" 
+     			width="100%"
+     			frameborder="0" 
+     			scrolling="no" 
+     			allowfullscreen="true"> 
+						</iframe>
+						<iframe src="https://chat.kick.cx/embed/ogabdullah" width="100%" height="500px"></iframe>
                     `
                 }
             ]
