@@ -29,6 +29,7 @@
      			scrolling="no" 
      			allowfullscreen="true"> 
 						</iframe>
+						<br/>
 						<iframe src="https://chat.kick.cx/embed/sxb" width="100%" height="500px"></iframe>
                     `
                 },{
@@ -44,6 +45,7 @@
      			scrolling="no" 
      			allowfullscreen="true"> 
 						</iframe>
+						<br/>
 						<iframe src="https://chat.kick.cx/embed/ogabdullah" width="100%" height="500px"></iframe>
                     `
                 }
