@@ -17,8 +17,8 @@
             items: [
                 
                 {
-                    id: 'Live_Stream_1',
-                    title: 'Live Stream (SXB)',
+                    id: 'sxb',
+                    title: 'SXB',
                     image: 'what-is-kick-1024x576.jpg',
                     description: `
                         <iframe 
@@ -32,8 +32,8 @@
 						<iframe src="https://chat.kick.cx/embed/sxb" width="100%" height="500px"></iframe>
                     `
                 },{
-                    id: 'Live_Stream_2',
-                    title: 'Live Stream (ogabdullah)',
+                    id: 'ogabdullah',
+                    title: 'ogabdullah',
                     image: 'what-is-kick-1024x576.jpg',
                     description: `
                         <iframe 
