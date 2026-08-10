@@ -163,13 +163,17 @@ main#content-area.fade-out { opacity: 0; }
 /* --- Footer Status Bar --- */
 .mmsf-status-bar {
     display: flex;
-    justify-content: space-between;
+   // justify-content: space-between;
     padding: 8px 15px;
     background-color: var(--mmsf-dark-blue);
     border-top: 3px solid var(--mmsf-light-blue);
     font-family: var(--font-body);
     font-size: 20px;
     font-weight: bold;
+}
+
+.center {
+	margin: 0 auto;
 }
 
 
